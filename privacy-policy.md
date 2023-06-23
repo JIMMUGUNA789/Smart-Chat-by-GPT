@@ -3,8 +3,8 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at ChatGPT Chatbot, how ChatGPT Chatbot uses it, and what choices you have.
-ChatGPT Chatbot built the ChatGPT Chatbot app as a free app. This SERVICE is provided by ChatGPT Chatbot at no cost and is intended for use as is.
+Our privacy policy will help you understand what information we collect at Smart-Chat-by-GPT, how ChatGPT Chatbot uses it, and what choices you have.
+Smart-Chat-by-GPT built the Smart-Chat-by-GPT app as a free app. This SERVICE is provided by Smart-Chat-by-GPT at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
